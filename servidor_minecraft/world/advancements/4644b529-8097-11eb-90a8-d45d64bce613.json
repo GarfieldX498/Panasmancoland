@@ -1,0 +1,39 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-19 19:47:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-19 19:47:30 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-19 19:47:30 -0600"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:overworld_netherite": {
+    "criteria": {
+      "overworld_netherite_0": "2024-11-19 19:47:30 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-19 19:47:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2024-11-19 19:47:44 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

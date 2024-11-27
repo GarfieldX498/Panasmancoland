@@ -1,0 +1,17 @@
+{
+	id: "b7e0402f-b8bd-3ceb-8247-7180e90a4d00"
+	type: "player"
+	player_name: "ZingyMonk719952"
+	ranks: {
+		b7e0402f-b8bd-3ceb-8247-7180e90a4d00: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ZingyMonk719952"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "4644b529-8097-11eb-90a8-d45d64bce613"
+	type: "player"
+	player_name: "amigobuho360"
+	ranks: {
+		4644b529-8097-11eb-90a8-d45d64bce613: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "amigobuho360"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "382df0e4-a71b-3556-89e9-549d4875730c"
+	type: "player"
+	player_name: "ACUA-Ws"
+	ranks: {
+		382df0e4-a71b-3556-89e9-549d4875730c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ACUA-Ws"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5967FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
